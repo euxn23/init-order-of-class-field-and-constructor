@@ -1,0 +1,10 @@
+{
+  "name": "init-order-of-class-field-and-constructor",
+  "version": "1.0.0",
+  "main": "main.node.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
